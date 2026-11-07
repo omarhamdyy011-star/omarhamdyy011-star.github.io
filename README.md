@@ -17,8 +17,8 @@ The dashboards are training work, not client projects. Brand names are themes, n
 
 - `index.html`: portfolio
 - `retail.html`, `banking.html`, `sales.html`, `chocolate.html`: project studies
-- `style.css`, `script.js`: site presentation
-- `omar.jpg`, `retail.png`, `banking.png`, `sales.png`, `chocolate.png`: selected portrait and sanitized screenshots
-- `Omar_Hamdy_Data_Analysis_CV.pdf`: downloadable CV
+- `style.css`: site presentation
+- `8-omar.jpg`, `10-retail.png`, `9-banking.png`, `11-sales.png`, `12-chocolate.png`: selected portrait and sanitized screenshots
+- `13-Omar_Hamdy_Data_Analysis_CV.pdf`: downloadable CV
 
-The CV includes phone, email and LinkedIn. Public publication requires approval.
+The CV includes phone, email and LinkedIn. These files are public.
